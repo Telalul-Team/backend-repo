@@ -14,7 +14,7 @@ Make sure you have the following software installed on your computer:
 
 To clone the repository to your local machine, open your terminal (command prompt on Windows) and execute the following command:
 
-git clone https://github.com/Telalul-Team/telalul-backend-repo.git
+`git clone https://github.com/Telalul-Team/telalul-backend-repo.git`
 
 ## Setup
 
@@ -25,12 +25,12 @@ git clone https://github.com/Telalul-Team/telalul-backend-repo.git
 
 In the terminal within VS Code, navigate to the project folder and install the required packages using npm (Node Package Manager):
 
-npm install
+`npm install`
 
 ## Run the Server
 
 To run the backend server, use the following command in the terminal:
 
-node server.js
+`node server.js`
 
 The server should now be up and running. You should see a message in the terminal indicating that the server has started.
